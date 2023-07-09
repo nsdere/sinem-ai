@@ -18,10 +18,10 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-        Hi, this is Sinem. 👩🏼‍💻
+        Hi, this is a message from Sinem. 
       </h1>
       <p style={paragraphStyles}>
-       Come back later. 🚧
+       I am working on this website. Visit later. 👩🏼‍💻
       </p>
 
     </main>
