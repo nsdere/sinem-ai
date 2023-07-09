@@ -21,7 +21,8 @@ const IndexPage = () => {
         Hi, this is a message from Sinem. 
       </h1>
       <p style={paragraphStyles}>
-       I am working on this website. Visit later. 👩🏼‍💻
+       I am currently working on this website. 👩🏼‍💻 <br />
+       Visit here later in the near future.
       </p>
 
     </main>
