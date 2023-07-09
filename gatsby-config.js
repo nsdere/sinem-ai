@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `sinem-ai`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `sinem.ai`
   },
   plugins: ["gatsby-plugin-netlify-cms"]
 };
